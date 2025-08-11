@@ -7,7 +7,7 @@
 I am an **Artificial Intelligence Engineer** with a passion for building intelligent, data-driven solutions.  
 With over **12 years of experience** as an AI and Computer Science Instructor, I have trained hundreds of students in the fields of programming, data science, and AI.
 
-I’m also the **founder of [Mountain Academy](https://mountain-academy.com/)** — an online learning platform that has been helping hundreds of Saudi Arabian faculty and students learn **science** and **engineering** topics.  
+I’m also the **founder of [Mountain Academy](https://mountain-academy.com/)** — an online learning platform that has been helping hundreds of Saudi Arabian university students learn **science**  and **engineering** topics.  
 Since 2018, Mountain Academy has provided high-quality, accessible education.<br><br>My expertise spans AI & Machine Learning (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), NLP and Generative AI (LLMs, LangChain, RAG), Big Data Analytics (AWS, MongoDB, Spark), and MLOps (Docker, CI/CD, MLflow). I’m proficient in developing scalable web applications using Flask, FastAPI, and Streamlit, and I’m skilled in Linux administration and data visualization.<br><br>I’m driven to create impactful AI solutions and share knowledge through teaching and innovation.</p>
 
 ###
